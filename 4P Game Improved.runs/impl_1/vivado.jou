@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Feb  1 09:42:29 2025
+# Process ID: 18248
+# Current directory: C:/Users/Thej/Documents/2. My uni files/Third year/Semester 2/VLSI Design/vivadocodes/4P Game Improved/4P Game Improved.runs/impl_1
+# Command line: vivado.exe -log disp_selector.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source disp_selector.tcl -notrace
+# Log file: C:/Users/Thej/Documents/2. My uni files/Third year/Semester 2/VLSI Design/vivadocodes/4P Game Improved/4P Game Improved.runs/impl_1/disp_selector.vdi
+# Journal file: C:/Users/Thej/Documents/2. My uni files/Third year/Semester 2/VLSI Design/vivadocodes/4P Game Improved/4P Game Improved.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source disp_selector.tcl -notrace
